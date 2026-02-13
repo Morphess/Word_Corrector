@@ -16,7 +16,7 @@ public class Corrector {
                     .append(count)
                     .append(") ")
                     .append(str)
-                    .append("/n");
+                    .append("\n");
         }
         return stringBuilder.toString();
     }
